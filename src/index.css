@@ -1,0 +1,89 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f4f7fa; /* Light background for a clean professional look */
+  color: #333; /* Dark text color for readability */
+  line-height: 1.6; /* Improved line spacing for better readability */
+  padding: 20px;
+}
+
+/* Code styling */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  background-color: #f5f5f5; /* Soft background for code */
+  color: #d63384; /* Professional code color with a soft pop of color */
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-size: 1.1rem; /* Slightly larger font for easier reading */
+}
+
+/* Links Styling */
+a {
+  color: #007bff; /* Professional blue for links */
+  text-decoration: none; /* Removing underlines for a cleaner look */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover to maintain interactivity */
+  color: #0056b3; /* Slightly darker blue for hover state */
+}
+
+/* Button Styling */
+button {
+  background-color: #007bff; /* Blue button */
+  color: white; /* White text */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue for hover effect */
+}
+
+/* Card Style (If you're using cards in your UI) */
+.card {
+  background-color: white; /* White card background */
+  border: 1px solid #ddd; /* Light border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  color: #333; /* Dark text for card title */
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.card-body {
+  font-size: 1rem;
+  color: #555; /* Slightly lighter text for the card body */
+}
+
+/* For headings, providing a professional, consistent color */
+h1, h2, h3 {
+  color: #333;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
