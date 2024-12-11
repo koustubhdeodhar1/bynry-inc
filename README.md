@@ -1,7 +1,6 @@
 
 
-# Getting Started with Create React App for Bynry CaseStudy
-
+# Getting Started with Create React App for Bynry CaseStudy for front end development
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
